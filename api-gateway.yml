@@ -49,8 +49,8 @@ spring:
       exchange: project.events.fanout.exchange
   rabbitmq:
     hostname: 127.0.0.1
-    username: guest
-    password: guest
+    username: test
+    password: password
   oauth2:
     sso:
       home:
